@@ -7,7 +7,7 @@ layout: home
 
 # Ressources
 
-[Polycopié](/assets/stat.pdf)
+[Polycopié]({{ 'assets/stat.pdf' | relative_url }})
 
 # Plan du cours
 

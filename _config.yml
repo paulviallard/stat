@@ -1,0 +1,11 @@
+encoding: utf-8
+baseurl: ""
+url: "" 
+markdown: kramdown
+theme: minima 
+
+plugins:
+  - jekyll-redirect-from
+
+title: Introduction aux probabilités et statistiques
+title-description: Licence 3 d'informatique - ENS Rennes - Année 2024/2025

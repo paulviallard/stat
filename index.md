@@ -12,4 +12,5 @@ layout: home
 # Plan du cours
 
 Séance 1: Mesures et espaces probabilisés
+
 Séance 2: De l'intégration aux probabilités

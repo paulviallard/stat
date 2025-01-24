@@ -7,7 +7,7 @@ layout: home
 
 # Ressources
 
-[Polycopié]({{ 'assets/stat.pdf' | relative_url }})
+[Polycopié]({{ 'assets/stat.pdf' | relative_url }}) et [TD]({{ 'assets/td.pdf' | relative_url }})
 
 # Plan du cours
 

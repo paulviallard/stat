@@ -11,12 +11,12 @@ layout: home
 
 # Plan du cours
 
-Séance 1: CM ``Mesures et les espaces probabilisés''
+Séance 1: CM "Mesures et les espaces probabilisés"
 
-Séance 2: CM ``De l'intégration aux probabilités''
+Séance 2: CM "De l'intégration aux probabilités"
 
 Séance 3: TD sur l'intégration et les mesures
 
-Séance 4: CM ``Propriétés de l'espérance''
+Séance 4: CM "Propriétés de l'espérance"
 
-Séance 5: CM ``Lois''
+Séance 5: CM "Lois"

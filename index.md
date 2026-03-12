@@ -11,3 +11,10 @@ layout: home
 # Ressources
 
 [Polycopié]({{ 'assets/stat.pdf' | relative_url }})
+
+## TP1
+
+[README.md]({{ 'assets/README.md' | relative_url }}) [env.yml]({{ 'assets/env.yml' | relative_url }}) [tp1.ipynb]({{ 'assets/tp1.ipynb' | relative_url }})
+
+
+

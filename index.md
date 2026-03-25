@@ -16,5 +16,6 @@ layout: home
 
 [README.md]({{ 'assets/README.md' | relative_url }}) [env.yml]({{ 'assets/env.yml' | relative_url }}) [tp1.ipynb]({{ 'assets/tp1.ipynb' | relative_url }})
 
+## TP2
 
-
+[tp2.ipynb]({{ 'assets/tp2.ipynb' | relative_url }})

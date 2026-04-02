@@ -19,3 +19,7 @@ layout: home
 ## TP2
 
 [tp2.ipynb]({{ 'assets/tp2.ipynb' | relative_url }})
+
+## Projet
+
+[projet.pdf]({{ 'assets/projet.pdf' | relative_url }})

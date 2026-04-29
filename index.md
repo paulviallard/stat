@@ -23,3 +23,8 @@ layout: home
 ## Projet
 
 [projet.pdf]({{ 'assets/projet.pdf' | relative_url }})
+
+## Exams
+
+[exam2025.pdf]({{ 'assets/exam2025.pdf' | relative_url }})
+
